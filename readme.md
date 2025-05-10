@@ -3,7 +3,10 @@
 		<img src="https://readme-typing-svg.herokuapp.com?lines=Machine+Learning;Business+Intelligence+&+Machine+Learning;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
 	</a>
 
-## Contact
+<div align="center">
+  <img src="https://github.com/NestorDiazDataSC/NestorDiazDataSC/edit/main/imagen/header.gif" alt="header"/>
+</div>
+
 <h3 align="center" >Contactame 🤝 </h3>
 
 <p align="center">
