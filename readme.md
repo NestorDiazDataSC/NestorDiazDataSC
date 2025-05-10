@@ -1,9 +1,6 @@
 
 ![header](https://github.com/user-attachments/assets/cb366858-e985-4d05-9efd-8267a4793022)
 
-<div align="center">
-  <img src="https://github.com/NestorDiazDataSC/NestorDiazDataSC/blob/main/header.gif" alt="header"/>
-</div>
 <h3 align="center" >Contactame 🤝 </h3>
 
 <p align="center">
@@ -25,7 +22,8 @@
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23E20000.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
-
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ##
 
