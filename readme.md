@@ -29,7 +29,7 @@
 
 ![data-analysis-using-python](https://user-images.githubusercontent.com/94582879/179277170-d520319a-80c4-4905-adc9-dc0862df6487.png)
 ![python-for-data-science](https://user-images.githubusercontent.com/94582879/179277171-f0967260-daea-4a8a-a52d-693298ea4881.png)
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="ba4d40d8-2313-499f-9d79-1cabbda4f397" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 https://www.credly.com/badges/ba4d40d8-2313-499f-9d79-1cabbda4f397/public_url
 
 ##
